@@ -1,0 +1,17 @@
+{
+  "name": "mapper",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Priyanshu Sharma <priyanshu.sharma@rsystems.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
